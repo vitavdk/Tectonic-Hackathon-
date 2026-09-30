@@ -1,5 +1,7 @@
 # KBC Moment Coach
 
+The link to the working version of the demo is the following: https://kbc-moment-coach.vercel.app/
+
 **Tectonic Hackathon: KBC case.** A proof of concept for a new way KBC understands, supports and guides its customers.
 
 Today, Kate mostly waits for questions, and the tips on the Start screen are the same for everyone ("High energy prices? …"). **Moment Coach makes Kate proactive and personal.** She notices *moments* in your transactions, reaches out in **For you**, talks the way *you* like, and asks "was this useful?" so every customer ends up as a *segment of one*.
